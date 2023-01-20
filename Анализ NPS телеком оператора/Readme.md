@@ -8,3 +8,5 @@
 База данных telecomm_csi, Предоставлена Яндекс практикум январь 2023г.
 ### Ссылка на Дашборд
 https://public.tableau.com/app/profile/andrey.shitov/viz/TelecomNPSanalysis/sheet6?publish=yes
+### Используемые библиотеки
+Pandas, sqlalchemy

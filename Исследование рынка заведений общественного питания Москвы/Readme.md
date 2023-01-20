@@ -18,4 +18,5 @@
 Исследование распределения заведений по улицам Москвы
 Исследование среднего чека по округам Москвы
 #### 1.2.4  Общий вывод и рекомендации
-Используемые библиотеки: pandas, matplotlib, seaborn, plotly, datetime,folium, json
+### Используемые библиотеки: 
+pandas, matplotlib, seaborn, plotly, datetime,folium, json
